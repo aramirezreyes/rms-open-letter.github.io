@@ -116,7 +116,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Advaith Madhukar
 1. Agatha Rose
 1. Akhil Indurti
-1. Akiva Leffert
 1. Alain Y. Meza H. (Planner App)
 1. Alan Ball
 1. Alan Coopersmith (former member, X.Org Foundation Board of Directors)
@@ -233,7 +232,8 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Antony Jordan
 1. Anuj Arora
 1. April Clyburne-Sherin (Reproducibility for Everyone)
-1. Ara Pulido
+1. Ara Pulido 
+1. Argel Ramírez Reyes (UC Davis)
 1. Aria Buckles
 1. Ariadne Conill (Alpine Developer, pkgconf)
 1. Ariela Wenner
@@ -1333,7 +1333,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Melanie Kat
 1. Melissa Boiko
 1. Melissa Draper
-1. Melissa Weber Mendonça
 1. Mélissa Richard
 1. Melody ✨
 1. Merlijn Sebrechts (`galgalesh`)
